@@ -1,4 +1,3 @@
-import scala.compiletime.ops.string
 object retailStore{
     var item:Array[String] = Array("book","soap","shampoo","coconuts");
     var quantity:Array[Int] = Array(4,5,2,1);
