@@ -1,0 +1,184 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@71c31430]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@78365113]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@71c31430]
+2024.07.07 15:32:19 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.07 15:32:20 INFO  no build target found for D:\GitHub\fp-practicals\fp-practical04\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 15:32:22 INFO  Running List(C:\Users\anupa\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\GitHub\fp-practicals)
+2024.07.07 15:32:22 INFO  Attempting to connect to the build server...
+2024.07.07 15:32:22 INFO  Running BSP server List(C:\Users\anupa\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\GitHub\fp-practicals\.scala-build\ide-options-v2.json, --json-launcher-options, D:\GitHub\fp-practicals\.scala-build\ide-launcher-options.json, --envs-file, D:\GitHub\fp-practicals\.scala-build\ide-envs.json, D:\GitHub\fp-practicals)
+2024.07.07 15:32:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\GitHub\fp-practicals\.metals\bsp.trace.json or C:\Users\anupa\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 15:32:26 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q1.scala
+2024.07.07 15:32:29 INFO  time: Connected to build server in 5.91s
+2024.07.07 15:32:29 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.07 15:32:29 INFO  time: Imported build in 0.14s
+2024.07.07 15:32:29 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 15:32:34 INFO  time: compiled fp-practicals_c97bf51d2a in 4.21s
+2024.07.07 15:32:36 INFO  time: indexed workspace in 6.91s
+2024.07.07 15:32:39 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q1.scala
+Jul 07, 2024 3:32:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Jul 07, 2024 3:32:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 74
+Jul 07, 2024 3:32:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+Jul 07, 2024 3:36:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 462
+Jul 07, 2024 3:36:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 556
+Jul 07, 2024 3:36:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 651
+Jul 07, 2024 3:37:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 774
+Jul 07, 2024 3:37:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 825
+Jul 07, 2024 3:37:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 839
+Jul 07, 2024 3:46:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1481
+Jul 07, 2024 3:46:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1506
+Jul 07, 2024 3:47:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1675
+Jul 07, 2024 3:47:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1759
+2024.07.07 15:47:32 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 15:47:33 INFO  time: compiled fp-practicals_c97bf51d2a in 1.54s
+2024.07.07 15:47:43 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 15:47:45 INFO  time: compiled fp-practicals_c97bf51d2a in 2.09s
+2024.07.07 15:49:10 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 15:49:10 INFO  time: compiled fp-practicals_c97bf51d2a in 0.97s
+Jul 07, 2024 3:50:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1996
+Jul 07, 2024 3:50:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2182
+Jul 07, 2024 3:54:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2413
+Jul 07, 2024 3:54:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2512
+Jul 07, 2024 3:55:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2748
+Jul 07, 2024 3:56:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2793
+Jul 07, 2024 3:57:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2923
+Jul 07, 2024 3:58:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3095
+Jul 07, 2024 3:59:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3290
+2024.07.07 16:00:46 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:00:46 INFO  time: compiled fp-practicals_c97bf51d2a in 0.9s
+Jul 07, 2024 4:05:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3451
+Jul 07, 2024 4:06:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3751
+Jul 07, 2024 4:06:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3835
+Jul 07, 2024 4:08:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4216
+2024.07.07 16:10:16 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:10:16 INFO  time: compiled fp-practicals_c97bf51d2a in 0.8s
+2024.07.07 16:10:49 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:10:49 INFO  time: compiled fp-practicals_c97bf51d2a in 0.58s
+2024.07.07 16:13:32 INFO  no build target found for D:\GitHub\fp-practicals\fp-practical04\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 16:13:32 INFO  no build target found for D:\GitHub\fp-practicals\fp-practical04\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 16:13:32 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+2024.07.07 16:13:33 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:13:33 INFO  time: compiled fp-practicals_c97bf51d2a in 0.23s
+2024.07.07 16:13:36 INFO  time: indexed workspace in 3.06s
+2024.07.07 16:13:36 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+2024.07.07 16:13:40 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+Jul 07, 2024 4:13:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4568
+Jul 07, 2024 4:13:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4676
+2024.07.07 16:13:57 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+2024.07.07 16:13:57 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+2024.07.07 16:13:58 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+2024.07.07 16:13:58 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+Jul 07, 2024 4:14:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\fp-practicals\.metals\.reports\metals-full\2024-07-07\r_compiler-error_(fp-practicals_c97bf51d2a)_16-14-52-995.md
+Jul 07, 2024 4:23:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5299
+Jul 07, 2024 4:24:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5618
+2024.07.07 16:25:04 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:25:04 INFO  time: compiled fp-practicals_c97bf51d2a in 0.42s
+2024.07.07 16:27:00 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:27:00 INFO  time: compiled fp-practicals_c97bf51d2a in 0.33s
+2024.07.07 16:27:13 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q2.scala
+Jul 07, 2024 4:27:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5968
+Jul 07, 2024 4:27:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6034
+Jul 07, 2024 4:28:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6183
+Jul 07, 2024 4:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6200
+2024.07.07 16:28:29 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:28:29 INFO  time: compiled fp-practicals_c97bf51d2a in 0.4s
+2024.07.07 16:35:29 INFO  no build target found for D:\GitHub\fp-practicals\fp-practical04\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 16:35:29 INFO  no build target found for D:\GitHub\fp-practicals\fp-practical04\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 16:35:29 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q3.scala
+2024.07.07 16:35:30 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:35:30 INFO  time: compiled fp-practicals_c97bf51d2a in 0.18s
+2024.07.07 16:35:32 INFO  time: indexed workspace in 2.03s
+2024.07.07 16:35:37 WARN  Could not find semantic tokens for: file:///D:/GitHub/fp-practicals/fp-practical04/q3.scala
+2024.07.07 16:36:47 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:36:47 INFO  time: compiled fp-practicals_c97bf51d2a in 0.67s
+2024.07.07 16:41:34 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:41:34 INFO  time: compiled fp-practicals_c97bf51d2a in 0.49s
+2024.07.07 16:41:45 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:41:45 INFO  time: compiled fp-practicals_c97bf51d2a in 0.42s
+2024.07.07 16:44:15 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:44:15 INFO  time: compiled fp-practicals_c97bf51d2a in 0.49s
+2024.07.07 16:50:15 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:50:15 INFO  time: compiled fp-practicals_c97bf51d2a in 0.47s
+Jul 07, 2024 4:50:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6935
+Jul 07, 2024 4:51:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7062
+2024.07.07 16:51:21 ERROR Failed to tokenize input for semantic tokens for D:\GitHub\fp-practicals\fp-practical04\q3.scala
+scala.meta.tokenizers.TokenizeException: <input>:23: error: unclosed character literal
+        )''
+         ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:391)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:395)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+Jul 07, 2024 4:52:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7306
+Jul 07, 2024 4:53:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7545
+2024.07.07 16:53:13 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:53:13 INFO  time: compiled fp-practicals_c97bf51d2a in 0.43s
+2024.07.07 16:53:53 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:53:53 INFO  time: compiled fp-practicals_c97bf51d2a in 0.32s
+2024.07.07 16:54:23 INFO  compiling fp-practicals_c97bf51d2a (1 scala source)
+2024.07.07 16:54:23 INFO  time: compiled fp-practicals_c97bf51d2a in 0.26s
+2024.07.07 16:54:47 INFO  Shutting down server
+2024.07.07 16:54:47 INFO  shutting down Metals
+2024.07.07 16:54:47 INFO  Shut down connection with build server.
+2024.07.07 16:54:47 INFO  Exiting server
