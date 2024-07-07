@@ -44,7 +44,7 @@ object retailStore{
     }
 
     def main(args : Array[String]):Unit = {
-        restockItem("anupa",5);
+        restockItem("book",5);
         displayInventory();
         sellItem("soap",6);
         displayInventory();
